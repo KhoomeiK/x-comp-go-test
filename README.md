@@ -1,0 +1,2 @@
+# x-comp-go-test
+GO CROSS COMPILATION MEMES
